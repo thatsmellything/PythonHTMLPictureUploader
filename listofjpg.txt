@@ -1,0 +1,3 @@
+pics\helloworld.txt
+pics\test.txt
+pics\thisisatest.txt
